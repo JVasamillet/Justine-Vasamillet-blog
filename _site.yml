@@ -14,5 +14,6 @@ navbar:
 base_url: https://JVasamillet.github.io/JUSTINE-VASAMILLET-blog/
 collections:
     posts:
+      disqus: justine-vasamillet-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
