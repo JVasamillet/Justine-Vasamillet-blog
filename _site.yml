@@ -1,13 +1,13 @@
 name: "blog-template"
-title: "Justine's Blog"
+title: "Justine's Blog about pollution"
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Miscellaneous"
+    - text: "My English activity log"
       href: english-activity.html
-    - text: "About"
+    - text: "About me"
       href: about.html
     - icon: fab fa-github
       href: https://github.com/JVasamillet/JUSTINE-VASAMILLET-blog
