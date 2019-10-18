@@ -1,6 +1,6 @@
 ---
 title: "Article 1"
-description: Here is an article about algae and its analysis.
+description: Here is an article about algae against pollution and its analysis
 author:
   - name: Justine Vasamillet
     url: {}
@@ -14,6 +14,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-[link](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2FJustine-Vasamillet-blog%2Farticle+1.pdf)
+[article 1](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2FJustine-Vasamillet-blog%2Farticle+1.pdf)
 
-[link](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2FJustine-Vasamillet-blog%2Farticle+1+analyse.pdf)
+[analyse](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2FJustine-Vasamillet-blog%2Farticle+1+analyse.pdf)
