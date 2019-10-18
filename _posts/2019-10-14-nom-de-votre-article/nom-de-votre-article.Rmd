@@ -1,11 +1,10 @@
 ---
 title: "Article 1"
-description: |
-  A short description of the post.
+description: Here is an article about algae and its analysis.
 author:
-  - name: Nicolas Devilez
+  - name: Justine Vasamillet
     url: {}
-date: 10-14-2019
+date: 10-18-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +14,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+[link](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2FJustine-Vasamillet-blog%2Farticle+1.pdf)
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+[link](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2FJustine-Vasamillet-blog%2Farticle+1+analyse.pdf)
