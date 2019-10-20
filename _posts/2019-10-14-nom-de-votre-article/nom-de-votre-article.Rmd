@@ -14,6 +14,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-[article 1](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2FJustine-Vasamillet-blog%2Farticle+1.pdf)
+[article 1](article 1.pdf)
 
-[analyse](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2FJustine-Vasamillet-blog%2Farticle+1+analyse.pdf)
+[analyse](article 1 analyse.pdf)
