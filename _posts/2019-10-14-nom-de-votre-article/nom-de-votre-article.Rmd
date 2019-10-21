@@ -13,7 +13,65 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+# article
+Ruth Kassinger’s Slime illustrates the important role algae have played in the world
+over time and begins with the story of cyanobacteria, describing how these
+prokaryotic organisms shaped early life on Earth by producing an oxygenated
+atmosphere. To the present day, cyanobacteria symbiotically living in the aquatic
+fern Azolla still play important roles for organic rice cultivation methods in Japan.
+Kassinger recounts stories from her travels around the world, from an excursion to a
+nori farm and processing plant in South Korea to a coral restoration project in
+Bonaire. Algae, she reveals, are extremely versatile and can be used not only as a
+human and animal food source but also to produce glass, explosives, fertilizer,
+shoes, and “designer” oils.
+The production of algal-based bioplastics, Kassinger argues, might be the solution to
+our plastic pollution problem. Slime explores ongoing research on different algal
+usages, such as bioplastic production, including the work of Daniel Ducat, Taylor
+Weiss, and Eric C. Young at Michigan State University’s Plant Research Laboratory.
+Because bacteria-producing plastics require sugar to synthesize polymers, most
+bioplastics are too expensive to compete with petroleum-based plastics. The
+Michigan State team has genetically modified cyanobacteria to constantly leak
+sugars produced by photosynthesis. Adding these algae to the same containers as
+plastic-producing bacteria provides all the sugars needed to produce plastic
+polymers.
+Kassinger also discusses ocean warming because of climate change and increasing
+nutrient pollution as a result of agricultural fertilizer and sewage. Both ocean warming
+and water pollution destroy coral reefs and increase algal blooms, which can have
+devastating effects on local communities and ecosystem functions. “People focus on
+the gross algal blooms and blame the algae,” she writes, “but the cause is entirely
+human.”
+Kassinger mentions throughout Slime the importance of brown algae and the
+associated kelp forests. Brown algae have high biomass, are major contributors to
+oxygen production, and provide habitat for many marine organisms. She misses an
+opportunity, however, to highlight how ocean warming and water pollution are
+threatening these highly productive kelp forests. Kelp forests on Tasmania’s east
+coast have declined by more than 95%, for example, and were listed as the first
+threatened marine community by the Australian government in 2012.
+Overall, Slime gives a distinct view into these underappreciated organisms and
+demonstrates our intertwined history with algae. Hopefully, it will help readers see
+algae in a different light.  
+[article 1](https://blogs.sciencemag.org/books/2019/06/03/slime/)  
+Word count : 423
 
-[article 1](article 1.pdf)
+# Analysis
+## Vocabulary 
+Word from the text |Synonym/definition in English |French translation
+-------------------|------------------------------|--------------------
+Algae              |Seaweed                       |Algue
+To shape           |To model                      |Façonner
+Fern               |Lacy plant                    |Fougère
+Versatile          |Adaptable                     |Polyvalent
+Ongoing            |In progress                   |En cours
+Sewage             |Dirty water                   |Eaux usées
+Algal bloom        |Algal proliferation           |Prolifération d’algues
+Kelp               |Wrack                         |Varech
+Intertwined        |Interlaced                    |Entrelacé 
 
-[analyse](article 1 analyse.pdf)
+## About the study
+Question                      |Answer
+------------------------------|------------------------------------
+Researchers ?                 |Ruth Kassinger
+Published in ? When ?         |Slime (book) 03/06/19
+General topic                 |The role and applications of algae
+Procedure/what was examined ? |What is the importance of algae in the ecosystems and how it can help us against the climate change and pollution. How we can change our mind against this algae wich are very important and very helpful but also a victim of our nonsense.
+Conclusions/discovery         |We can do a lot of things with algae like bacteria-producing plastics wich are not pollutants. We have to change our mind and appreciate these organisms.
