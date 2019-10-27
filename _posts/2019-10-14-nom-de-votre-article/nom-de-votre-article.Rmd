@@ -51,6 +51,7 @@ Overall, Slime gives a distinct view into these underappreciated organisms and
 demonstrates our **intertwined** history with algae. Hopefully, it will help readers see
 algae in a different light.  
 [article 1](https://blogs.sciencemag.org/books/2019/06/03/slime/)  
+03/06/19  
 Word count : 423
 
 # Analysis
@@ -76,6 +77,3 @@ General topic                 |The role and applications of algae
 Procedure/what was examined ? |What is the importance of algae in the ecosystems and how it can help us against the climate change and pollution. How we can change our mind against this algae wich are very important and very helpful but also a victim of our nonsense.
 Conclusions/discovery         |We can do a lot of things with algae like bacteria-producing plastics wich are not pollutants. We have to change our mind and appreciate these organisms.
 
-# pdf's
-[article 1](article 1.pdf)  
-[analysis](article 1 analyse.pdf)
