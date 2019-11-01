@@ -13,13 +13,13 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-# article
+
+# Details of the article
 Source ok the article : [article 1](https://blogs.sciencemag.org/books/2019/06/03/slime/)  
 Date : 03/06/19  
 Word count : 423
 
-# Analysis
-## Vocabulary 
+# Vocabulary
 Word from the text |Synonym/definition in English |French translation
 -------------------|------------------------------|--------------------
 Algae              |Seaweed                       |Algue
@@ -32,7 +32,7 @@ Algal bloom        |Algal proliferation           |Prolifération d’algues
 Kelp               |Wrack                         |Varech
 Intertwined        |Interlaced                    |Entrelacé 
 
-## About the study
+# Analysis table
 Questions                     |Answers
 ------------------------------|------------------------------------
 Researchers ?                 |Ruth Kassinger
