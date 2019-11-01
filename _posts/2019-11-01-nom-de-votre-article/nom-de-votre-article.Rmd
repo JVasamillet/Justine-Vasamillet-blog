@@ -22,34 +22,34 @@ Word count : 675
 
 # Vocabulary : 
 
-Word from the text        |Synonym/definition in English                             |French translation  
---------------------------|----------------------------------------------------------|----------------------  
-Nurdles                   |Very small round pieces of plastic used as a raw material |Particules de plastique  
-Chairman                  |President                                                 |Président  
-To deny                   |Refuse to admit                                           |Nier  
-To wash up                |To clean                                                  |Laver  
-Conveniently              |coincidentally                                            |Comme par hasard / à point nommé  
-To stamp                  |To dab                                                    |Tamponner / timbrer  
-Upstream                  |Upwind                                                    |En amont    
-To claim                  |To affirm                                                 |Affirmer / prétendre  
-Sink                      |Basin                                                     |Évier  
-Ashore                    |On land                                                   |À terre  
-Tides                     |Current                                                   |Marées  
-Regardless                |Anyway                                                    |Sans tenir compte de  
-Sheer                     |Complete                                                  |Total  
-Flaw                      |Imperfection                                              |Faille  
-Digestive tract           |Digestive system                                          |Appareil digestif  
-whilst                    |During                                                    |Alors que / durant que  
-To leach                  |To dissolve                                               |Se dissoudre  
-Carcinogenic              |Cancer-causing                                            |Cancérigène  
-Endocrine disruptor       |Hormone disruptor                                         |Perturbateur endocrinien  
-Knock-on                  |Indirect                                                  |Indirect  
-Fullness                  |Saturation                                                |Satiété  
-Stranded                  |Beached                                                   |Échoué  
-Discarded                 |Abandonned                                                |Jeté  
-Batch                     |Bunch                                                     |Lot  
-To ensure                 |to guarantee                                              |Assurer  
-Disposed of               |Thrown away                                               |Éliminer  
+Word from the text           |Synonym/definition in English               |French translation  
+-----------------------------|--------------------------------------------|----------------------  
+Nurdles                      |Very small round pieces of plastic used as a raw material |Particules de plastique  
+Chairman                     |President                                   |Président  
+To deny                      |Refuse to admit                             |Nier  
+To wash up                   |To clean                                    |Laver  
+Conveniently                 |coincidentally                              |Comme par hasard / à point nommé  
+To stamp                     |To dab                                      |Tamponner / timbrer  
+Upstream                     |Upwind                                      |En amont    
+To claim                     |To affirm                                   |Affirmer / prétendre  
+Sink                         |Basin                                       |Évier  
+Ashore                       |On land                                     |À terre  
+Tides                        |Current                                     |Marées  
+Regardless                   |Anyway                                      |Sans tenir compte de  
+Sheer                        |Complete                                    |Total  
+Flaw                         |Imperfection                                |Faille  
+Digestive tract              |Digestive system                            |Appareil digestif  
+whilst                       |During                                      |Alors que / durant que  
+To leach                     |To dissolve                                 |Se dissoudre  
+Carcinogenic                 |Cancer-causing                              |Cancérigène  
+Endocrine disruptor          |Hormone disruptor                           |Perturbateur endocrinien  
+Knock-on                     |Indirect                                    |Indirect  
+Fullness                     |Saturation                                  |Satiété  
+Stranded                     |Beached                                     |Échoué  
+Discarded                    |Abandonned                                  |Jeté  
+Batch                        |Bunch                                       |Lot  
+To ensure                    |to guarantee                                |Assurer  
+Disposed of                  |Thrown away                                 |Éliminer  
 
 # Analysis table : 
 Questions                     |Answers                              
