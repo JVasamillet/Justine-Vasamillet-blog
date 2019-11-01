@@ -1,5 +1,5 @@
 ---
-title: "Article 1"
+title: "Article 1 : Slime"
 description: Here is an article about algae against pollution and its analysis
 author:
   - name: Justine Vasamillet
@@ -14,8 +14,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 # article
-[article 1](https://blogs.sciencemag.org/books/2019/06/03/slime/)  
-03/06/19  
+Source ok the article : [article 1](https://blogs.sciencemag.org/books/2019/06/03/slime/)  
+Date : 03/06/19  
 Word count : 423
 
 # Analysis
@@ -33,7 +33,7 @@ Kelp               |Wrack                         |Varech
 Intertwined        |Interlaced                    |Entrelacé 
 
 ## About the study
-Question                      |Answer
+Questions                     |Answers
 ------------------------------|------------------------------------
 Researchers ?                 |Ruth Kassinger
 Published in ? When ?         |Slime (book) 03/06/19

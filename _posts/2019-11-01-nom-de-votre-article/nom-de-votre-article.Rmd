@@ -1,0 +1,67 @@
+---
+title: "Article 2 : Plastic producers urged to take responsibility for 'nurdle' pollution"
+description: here is an article about the plastic pollution and its impact on wildlife
+author:
+  - name: Justine Vasamillet
+    url: {}
+date: 11-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Details of the article : 
+
+Source :  [article 2](https://www.newscientist.com/article/2205155-plastic-producers-urged-to-take-responsibility-for-nurdle-pollution/)  
+Date :  03/06/2019  
+Word count : 675 
+
+# Vocabulary : 
+
+Word from the text        |Synonym/definition in English                             |French translation  
+--------------------------|----------------------------------------------------------|----------------------  
+Nurdles                   |Very small round pieces of plastic used as a raw material |Particules de plastique  
+Chairman                  |President                                                 |Président  
+To deny                   |Refuse to admit                                           |Nier  
+To wash up                |To clean                                                  |Laver  
+Conveniently              |coincidentally                                            |Comme par hasard / à point nommé  
+To stamp                  |To dab                                                    |Tamponner / timbrer  
+Upstream                  |Upwind                                                    |En amont    
+To claim                  |To affirm                                                 |Affirmer / prétendre  
+Sink                      |Basin                                                     |Évier  
+Ashore                    |On land                                                   |À terre  
+Tides                     |Current                                                   |Marées  
+Regardless                |Anyway                                                    |Sans tenir compte de  
+Sheer                     |Complete                                                  |Total  
+Flaw                      |Imperfection                                              |Faille  
+Digestive tract           |Digestive system                                          |Appareil digestif  
+whilst                    |During                                                    |Alors que / durant que  
+To leach                  |To dissolve                                               |Se dissoudre  
+Carcinogenic              |Cancer-causing                                            |Cancérigène  
+Endocrine disruptor       |Hormone disruptor                                         |Perturbateur endocrinien  
+Knock-on                  |Indirect                                                  |Indirect  
+Fullness                  |Saturation                                                |Satiété  
+Stranded                  |Beached                                                   |Échoué  
+Discarded                 |Abandonned                                                |Jeté  
+Batch                     |Bunch                                                     |Lot  
+To ensure                 |to guarantee                                              |Assurer  
+Disposed of               |Thrown away                                               |Éliminer  
+
+# Analysis table : 
+Questions                     |Answers                              
+------------------------------|---------------------------------------------  
+Researchers ?                 |Sam Wong  
+Published in ? When ?         |NewScientist; 3 June 2019  
+General topic ?               |Plastic pollution by campaigners and impact on wildlife  
+Procedure/What was examined ? |Where does the nurdles come from and if animals have plastic in their digestive tract  
+Conclusions/discovery ?       |Nurdles come from campaingers and 40% of the fish have plastic in their organism  
+
+
+ 
+
+ 
+
