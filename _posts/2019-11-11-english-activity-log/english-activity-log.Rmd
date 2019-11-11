@@ -1,0 +1,48 @@
+---
+title: "My English activity log"
+description: From now on, you will use this article to include every single activity that you do in English in a chronological order (e.g. reading a book in English, watching TV shows and series in English, going to an English Evening in Mons, travelling to an English-speaking country, playing games in English such as the pretty exciting game LyricsTraining, etc.). You can even write a few lines about what you’ve watched/read/done and recommend certain things to your friends. The sky’s the limit! We value personal initiative and we will be happy to read whatever you have to offer.
+author:
+  - name: Justine Vasamillet
+    url: {}
+date: 11-11-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# week 3:
+* I watched youtube's videos (I'm a follower of an English channel so I watch somes videos in English every single week)
+* I listened to English music as always
+* I checked the news in English 
+
+# week 4: 
+* I watched youtube's videos 
+* I listened to English music
+* I checked the news
+* I watched a film
+
+# week 5:
+* I watched youtube's videos 
+* I listened to English music
+* I checked the news
+* I went to the cinema and watched "Joker" in English
+
+# week 6:
+* I watched youtube's videos
+* I listened to English music
+* I played a video game in English (Merchant of the skies)
+* I read articles in English
+* I checked the news
+
+# week 7:
+* I watched youtube's videos
+* I listened to English music
+* I played a video game in English (Merchant of the skies)
+* I read articles in English
+* I watched a few episodes of "Under the dome" in English
+
+

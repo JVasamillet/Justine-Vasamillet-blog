@@ -5,8 +5,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "My English activity log"
-      href: english-activity.html
     - text: "About me"
       href: about.html
     - icon: fab fa-github
