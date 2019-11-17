@@ -45,4 +45,9 @@ knitr::opts_chunk$set(echo = FALSE)
 * I read articles in English
 * I watched a few episodes of "Under the dome" in English
 
-
+# week 8:
+* I watched youtube's videos
+* I listened to English music
+* I played a video game in English (Merchant of the skies)
+* I read articles in English
+* I checked the news
