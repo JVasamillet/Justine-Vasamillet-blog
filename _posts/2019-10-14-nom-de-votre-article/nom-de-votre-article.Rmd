@@ -13,10 +13,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![](../data/article_1.png)
 
 # Details of the article
-
+![](../data/article_1.png)  
 lien : [article 1](https://blogs.sciencemag.org/books/2019/06/03/slime/)  
 Date : 03/06/19  
 Word count : 423
