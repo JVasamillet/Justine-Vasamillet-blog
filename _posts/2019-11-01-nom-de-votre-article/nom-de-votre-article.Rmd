@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Details of the article : 
 ![](../data/article_2.png)  
-Lien :  [article 2](https://www.newscientist.com/article/2205155-plastic-producers-urged-to-take-responsibility-for-nurdle-pollution/)  
+Lien :  [https://www.newscientist.com/article/2205155-plastic-producers-urged-to-take-responsibility-for-nurdle-pollution/](https://www.newscientist.com/article/2205155-plastic-producers-urged-to-take-responsibility-for-nurdle-pollution/)  
 Date :  03/06/2019  
 Word count : 675 
 
