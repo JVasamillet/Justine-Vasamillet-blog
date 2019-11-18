@@ -13,6 +13,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![](../data/article_3.png)
 
 # Details of the article : 
 Lien : [article 3](https://www.newscientist.com/article/2213873-is-air-pollution-causing-mental-health-conditions-like-depression/)  

@@ -4,7 +4,7 @@ description:  From now on, you will use this article to include every single act
 author:
   - name: Justine Vasamillet
     url: {}
-date: 11-11-2019
+date: 09-16-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -46,6 +46,12 @@ knitr::opts_chunk$set(echo = FALSE)
 * I watched a few episodes of "Under the dome" in English
 
 # week 8:
+* I watched youtube's videos
+* I listened to English music
+* I played a video game in English (Merchant of the skies)
+* I read articles in English
+
+# week 9:
 * I watched youtube's videos
 * I listened to English music
 * I played a video game in English (Merchant of the skies)
