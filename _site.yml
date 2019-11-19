@@ -16,4 +16,4 @@ collections:
       share: [twitter, linkedin, facebook]
 output: 
   distill::distill_article:
-  css: couleur.css
+   css: couleur.css

@@ -1261,8 +1261,39 @@
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+  <style type="text/css">
+  .distill-site-nav {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #842e1b;
+    font-size: 15px;
+    font-weight: 300;
+  }
+  
+  .distill-site-nav a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .distill-site-nav a:hover {
+    color: white;
+  }
+  
+  .distill-site-header {
+  }
+  
+  .distill-site-footer {
+  }
+  
+  @media print {
+    .distill-site-nav {
+      display: none;
+    }
+  }
+  
+  </style>
   <!--/radix_placeholder_site_in_header-->
 
+  <link rel="stylesheet" href="couleur.css" type="text/css"/>
 
 </head>
 
@@ -1630,9 +1661,11 @@ function init_posts_list() {
 <a href="posts/2019-11-01-nom-de-votre-article/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Oct. 31, 2019</div>
+<div class="publishedDate">Nov. 1, 2019</div>
 </div>
-<div class="thumbnail"></div>
+<div class="thumbnail">
+<img/>
+</div>
 <div class="description">
 <h2>Article 2 : Plastic producers urged to take responsibility for 'nurdle' pollution</h2>
 <p>here is an article about the plastic pollution and its impact on wildlife</p>
