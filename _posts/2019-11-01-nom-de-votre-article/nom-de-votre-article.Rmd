@@ -5,6 +5,7 @@ author:
   - name: Justine Vasamillet
     url: {}
 date: 11-01-2019
+preview: image/ article_2.png
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Details of the article : 
-![](../data/article_2.png)  
+ 
 Lien :  [https://www.newscientist.com/article/2205155-plastic-producers-urged-to-take-responsibility-for-nurdle-pollution/](https://www.newscientist.com/article/2205155-plastic-producers-urged-to-take-responsibility-for-nurdle-pollution/)  
 Date :  03/06/2019  
 Word count : 675 
