@@ -5,7 +5,7 @@ author:
   - name: Justine Vasamillet
     url: {}
 date: 11-01-2019
-preview: image/ article_2.png
+preview: ../data/article_2.jpg
 output:
   distill::distill_article:
     self_contained: false
