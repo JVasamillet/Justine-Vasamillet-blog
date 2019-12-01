@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-12-01-article-4/",
+    "title": "Article 4 : Canadians dying at a higher rate in areas with more air pollution.",
+    "description": "Here is an article about air pollution linked to risks for death in Canada.",
+    "author": [
+      {
+        "name": "Justine Vasamillet",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-01",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-12-01T13:48:09+01:00"
+  },
+  {
     "path": "posts/2019-11-17-article-3/",
     "title": "article 3 : Is air pollution causing mental health conditions like depression ?",
     "description": "Here is an article about the link between air quality and mental deseases",

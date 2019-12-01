@@ -1,0 +1,52 @@
+---
+title: "Article 4 : Canadians dying at a higher rate in areas with more air pollution."
+description: Here is an article about air pollution linked to risks for death in Canada.
+author:
+  - name: Justine Vasamillet
+    url: {}
+date: 12-01-2019
+preview: image/ ../data/article_4.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Details of the article : 
+Source : [https://phys.org/news/2019-11-canadians-dying-higher-areas-air.html](https://phys.org/news/2019-11-canadians-dying-higher-areas-air.html)  
+Date : 25/11/19  
+Word count : 542  
+
+# Vocabulary : 
+Word from the text  |Synonym/definition in English  |French translation  
+--------------------|-------------------------------|-------------------
+Guidelines  |Directives  |Directives  
+To provide  |To give  |Fournir  
+Concerning  |Worrisome  |Préoccupant  
+Aggregate  |Global  |Global  
+Substantial  |Significant  |Considérable  
+Improvement  |Upgrade  |Amélioration  
+Cross-referenced  |Come across  |Croisé  
+Census  |Count  |Recensement  
+Among  |Include  |Parmi  
+Mandatory  |Compulsory  |Obligatoire  
+Screening  |Testing  |Dépistage  
+Required  |Needed  |Nécessaire  
+Prior  |Preparatory  |Préalable  
+To assess  |To evaluate  |Évaluer  
+Burden  |Load  |Fardeau  
+Follow-up  |Tracking  |Suivi  
+Tool  |Aid  |Outil  
+ 
+# Analysis table : 
+Questions         |Answers   
+------------------|---------------------------------
+Researchers ?  |Michael Brauer  
+Published in ? When ?  |Phys.org, 25/11/19  
+General topic ?  |The link between the air pollution and the risk of death in Canada.  
+Procedure/What was examined ?  |The researchers combined data with a pollutant transport and chemistry then they measured ground-level air quality. They applied the data to, and produced a pollution map to estimate Canadian air pollution levels by the square-kilometre. They applied this pollution map to the population (adresses and death registry). The researchers also discoverd that the immigrants are often more senstive to air pollution. 
+Conclusions/discovery ?  |Air pollution is the fourth highest risk factor for death. The solution is to reduce air pollution.  
+Remaining questions ?  |How reducing air pollution.  
