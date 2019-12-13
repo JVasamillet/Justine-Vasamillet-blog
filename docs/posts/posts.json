@@ -11,8 +11,8 @@
     ],
     "date": "2019-12-01",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-12-01T13:48:09+01:00"
+    "preview": "posts/2019-12-01-article-4/../data/article_4.jpg",
+    "last_modified": "2019-12-09T08:43:52+01:00"
   },
   {
     "path": "posts/2019-11-17-article-3/",
@@ -27,7 +27,7 @@
     "date": "2019-11-17",
     "categories": [],
     "preview": "posts/2019-11-17-article-3/../data/article_3.jpg",
-    "last_modified": "2019-12-01T13:49:36+01:00"
+    "last_modified": "2019-12-09T08:41:06+01:00"
   },
   {
     "path": "posts/2019-11-01-nom-de-votre-article/",
@@ -42,7 +42,7 @@
     "date": "2019-11-01",
     "categories": [],
     "preview": "posts/2019-11-01-nom-de-votre-article/../data/article_2.jpg",
-    "last_modified": "2019-12-01T13:49:36+01:00"
+    "last_modified": "2019-12-09T08:41:06+01:00"
   },
   {
     "path": "posts/2019-10-14-nom-de-votre-article/",
@@ -57,7 +57,7 @@
     "date": "2019-10-18",
     "categories": [],
     "preview": "posts/2019-10-14-nom-de-votre-article/../data/article_1.jpg",
-    "last_modified": "2019-12-01T13:49:36+01:00"
+    "last_modified": "2019-12-09T08:41:06+01:00"
   },
   {
     "path": "posts/2019-11-12-english-activity/",
@@ -72,6 +72,6 @@
     "date": "2019-09-16",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-24T11:30:06+01:00"
+    "last_modified": "2019-12-09T08:41:06+01:00"
   }
 ]
