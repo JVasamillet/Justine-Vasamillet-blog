@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-12-15-article-5/",
+    "title": "Article 5 : Wildlife are exposed to more pollution than previously thought",
+    "description": "Here is an article about the threat that pollution represent to wildlife.",
+    "author": [
+      {
+        "name": "Justine Vasamillet",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-15",
+    "categories": [],
+    "preview": "posts/2019-12-15-article-5/../data/article_5.jpg",
+    "last_modified": "2019-12-15T11:24:09+01:00"
+  },
+  {
     "path": "posts/2019-12-01-article-4/",
     "title": "Article 4 : Canadians dying at a higher rate in areas with more air pollution.",
     "description": "Here is an article about air pollution linked to risks for death in Canada.",
@@ -11,8 +26,8 @@
     ],
     "date": "2019-12-01",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-12-01T13:48:09+01:00"
+    "preview": "posts/2019-12-01-article-4/../data/article_4.jpg",
+    "last_modified": "2019-12-15T11:12:15+01:00"
   },
   {
     "path": "posts/2019-11-17-article-3/",

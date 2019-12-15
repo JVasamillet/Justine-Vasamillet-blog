@@ -1,0 +1,58 @@
+---
+title: "Article 5 : Wildlife are exposed to more pollution than previously thought"
+description: Here is an article about the threat that pollution represent to wildlife.
+author:
+  - name: Justine Vasamillet
+    url: {}
+date: 12-15-2019
+preview: ../data/article_5.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Details of the article : 
+Source : [https://phys.org/news/2019-11-wildlife-exposed-pollution-previously-thought.html](https://phys.org/news/2019-11-wildlife-exposed-pollution-previously-thought.html) 
+Date : 27/11/2019 
+Word count : 970 
+
+# Vocabulary : 
+
+Word from the text       |Synonym/definition in English     |French translation 
+-------------------------|----------------------------------|-----------------------
+Blatantly  |Obviously  |De manière flagrante  
+Slick  |Black tide  |Marée noire  
+Spill  |Discharge  |Déversement  
+To belch  |To spit  |Cracher  
+Smokestack  |Chimney  |Cheminée  
+Inconspicuous  |Discreet  |Discret  
+Tainted  |Tarnished  |Entaché  
+Grassland  |Prairie  |Prairie  
+To shrink  |To decrease  |Diminuer  
+Monitored  |Tracked  |Surveillé  
+Invaluable  |Priceless  |Inestimable  
+To rely  |To count on  |Compter sur  
+Breadth  |Scale  |Ampleur  
+Occurrence  |Frequency  |Fréquence  
+Prothonotary warbler  |Type of warbler  |Paruline orangée  
+Bumblebee  |Pollen-gathering insect  |Bourdon  
+Copper redhorse fish  |Type of fish  |Chevalier cuivré (poisson)  
+Mussel  |Type of shell  |Moule  
+Round hickorynut  |Type of mussel  |Obovarie ronde  
+To overlap  |To coincide  |Se chevaucher  
+
+# Analysis table : 
+
+Questions                |Answers           
+-------------------------|----------------------------------
+Researchers ?  |Diane Orihel and her work mates.  
+Published in ? When ?  |Phys.org, 27 November 2019.  
+General topic ?  |Is the pollution an underestimate threat for wildlife ?  
+Procedure/What was examined ?  |They did a map with all the sources points of pollution and they put it with the species occurrence to calculate the percentage of species’ habitat covered by pollution. Next, they found that scientists sometimes identified exposure to pollution as negligible  
+Conclusions/discovery ?  |More than a half of the species’ habitats are covered by pollution sources.  
+Remaining questions ?  |Is the type of pollution found in the species’ habitat a threat for them ?  
