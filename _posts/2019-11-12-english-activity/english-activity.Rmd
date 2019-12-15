@@ -64,3 +64,25 @@ knitr::opts_chunk$set(echo = FALSE)
 * I read articles in English
 * I watched a few episodes of "Under the dome" in English
 * I checked the news
+
+# week 11:
+* I watched youtube's videos
+* I listened to English music
+* I read articles in English
+* I watched a few episodes of "Under the dome" in English
+* I checked the news
+
+# week 12:
+* I watched youtube's videos
+* I listened to English music
+* I read articles in English
+* I watched a few episodes of "Under the dome" in English
+* I checked the news
+
+# week 13:
+* I watched youtube's videos
+* I listened to English music
+* I read articles in English
+* I watched a few episodes of "Under the dome" in English
+* I checked the news
+
