@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-19-article6/",
+    "title": "article 6 : Nature might be better than tech at reducing air pollution",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Justine Vasamillet",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-19",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-19T11:22:42+01:00"
+  },
+  {
     "path": "posts/2019-12-01-article-4/",
     "title": "Article 4 : Canadians dying at a higher rate in areas with more air pollution.",
     "description": "Here is an article about air pollution linked to risks for death in Canada.",

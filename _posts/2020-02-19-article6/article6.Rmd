@@ -1,0 +1,43 @@
+---
+title: "article 6 : Nature might be better than tech at reducing air pollution"
+description: |
+  A short description of the post.
+author:
+  - name: Justine Vasamillet
+    url: {}
+date: 02-19-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Details of the article
+
+Source : [https://phys.org/news/2019-11-nature-tech-air-pollution.html](https://phys.org/news/2019-11-nature-tech-air-pollution.html)  
+Date : 06/11/19  
+Word count : 691  
+
+# Vocabulary
+
+
+Word from the text |Synonym/definition in English |French translation 
+------------------------|----------------------------|-----------------------------
+To mitigate |To reduce |Attenuer  
+Landscape  |Scenery  |Paysage  
+Smokestack scrubbers |Something that cleans the smokestacks |Épurateur de cheminée 
+Grasslands  |Meadow  |Prairie  
+Shrublands  |Somes new shrubs |Formations arbustives 
+Smog  |Fog of pollution |Brouillard de pollution 
+Canopy  |Treetop  |Canopée  
+Lacking  |Deficient  |Manquant  
+To scrub  |To scour  |Récurer  
+ 
+# Analysis table
+
+Questions |Answers
+--------------------------|-----------------------------------------------
+Researchers ? |Bhavik Bakshi 
+Published in ? When ? |Published in Phys.org. 06/11/19 
+General topic ? |Reducing air pollution with plants instead of technological supplies. 
+Procedure/What was examined ? |They analysed in many counties which process is cheaper at reducing air pollution. Then they analysed how plants could reduce air pollution by their impact on air pollutant. 
+Conclusions/discovery ? |Reducing air pollution by plants is cheaper for 75% of the conties analysed except in the industrial boilers and manufacturing industry sectors. They found that plants can reduce air pollution by 27% across the counties in rural and urban areas. 
