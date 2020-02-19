@@ -1,18 +1,31 @@
 [
   {
+<<<<<<< HEAD
     "path": "posts/2020-02-19-article6/",
     "title": "article 6 : Nature might be better than tech at reducing air pollution",
     "description": "A short description of the post.",
+=======
+    "path": "posts/2019-12-15-article-5/",
+    "title": "Article 5 : Wildlife are exposed to more pollution than previously thought",
+    "description": "Here is an article about the threat that pollution represent to wildlife.",
+>>>>>>> 843a5ca0cfe59e6b060c7335bcee5e68446bf442
     "author": [
       {
         "name": "Justine Vasamillet",
         "url": {}
       }
     ],
+<<<<<<< HEAD
     "date": "2020-02-19",
     "categories": [],
     "preview": {},
     "last_modified": "2020-02-19T11:22:42+01:00"
+=======
+    "date": "2019-12-15",
+    "categories": [],
+    "preview": "posts/2019-12-15-article-5/../data/article_5.jpg",
+    "last_modified": "2019-12-15T11:24:09+01:00"
+>>>>>>> 843a5ca0cfe59e6b060c7335bcee5e68446bf442
   },
   {
     "path": "posts/2019-12-01-article-4/",
@@ -27,7 +40,7 @@
     "date": "2019-12-01",
     "categories": [],
     "preview": "posts/2019-12-01-article-4/../data/article_4.jpg",
-    "last_modified": "2019-12-09T08:43:52+01:00"
+    "last_modified": "2019-12-15T11:12:15+01:00"
   },
   {
     "path": "posts/2019-11-17-article-3/",
