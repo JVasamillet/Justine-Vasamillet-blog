@@ -1,11 +1,11 @@
 ---
 title: "article 6 : Nature might be better than tech at reducing air pollution"
-description: |
-  A short description of the post.
+description: Here is an article about the solutions to reduce air pollution
 author:
   - name: Justine Vasamillet
     url: {}
 date: 02-19-2020
+preview: data/article_6.jpg
 output:
   distill::distill_article:
     self_contained: false

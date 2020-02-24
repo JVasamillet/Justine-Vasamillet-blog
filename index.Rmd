@@ -1,6 +1,6 @@
 ---
 title: "Everything you need to know about pollution"
-preview: image / _posts/data/plastic-pollution-beach.jpg
+preview: data/plastic-pollution-beach.jpg
 site: distill::distill_website
 listing: posts
 ---
