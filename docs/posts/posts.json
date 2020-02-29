@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-29-article7/",
+    "title": "article 7 : Agricultural area residents in danger of inhaling toxic aerosols",
+    "description": "Here is an article about the air pollution caused by selenium form fertilizers and other natural sources",
+    "author": [
+      {
+        "name": "Justine Vasamillet",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-29",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-29T11:21:02+01:00"
+  },
+  {
     "path": "posts/2020-02-19-article6/",
     "title": "article 6 : Nature might be better than tech at reducing air pollution",
     "description": "A short description of the post.",

@@ -1,0 +1,53 @@
+---
+title: "article 7 : Agricultural area residents in danger of inhaling toxic aerosols"
+description: Here is an article about the air pollution caused by selenium form fertilizers and other natural sources
+author:
+  - name: Justine Vasamillet
+    url: {}
+date: 02-29-2020
+preview: data/article_7.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Details of the article :
+
+Source : [https://phys.org/news/2020-02-agricultural-area-residents-danger-inhaling.html](https://phys.org/news/2020-02-agricultural-area-residents-danger-inhaling.html)  
+Date : 03/02/20  
+Word count : 571  
+
+# Vocabulary :
+
+Word from the text   |Synonym/definition in English   |French translation    
+-------------------------|-------------------------------|----------------------
+Wetlands |Wet areas |Milieux humides  
+Chemical makeup |Chemical composition |Composition chimique  
+Lungs |Breathing organ |Poumons  
+Processed |Traited |Traité  
+Airborne |Aerial |Aérien  
+Slowed growth |A slowdown of the growth |Ralentissement de croissance  
+impaired bone metabolism |An affection of the bone metabolism |Métabolisme osseux altéré  
+Swollen lungs |Inflated lungs |Poumons gonflés  
+Garlic breath |Bad breath which smells like garlic |Haleine d’ail  
+
+# Analysis table :
+
+Questions    |Answers
+-------------------------|------------------------------------------------------
+Researchers ? |Roya Bahreini (atmospheric scientist), Ying-Hsuan Lin (toxicologist).  
+Published in ? When ? |Phys.org , 03/02/20  
+General topic ? |The air pollution by an excess selenium from fertilizers and other natural sources can be involved in lung cancer, asthma and type II diabetes.  
+Procedure/What was examined ? |First, researchers studied selenium rich wetlands and soils toxic to bird and fish. Second, other scientist tested the aerosols on lung cells.  
+Conclusions/discovery ? |First, they found that air pollution by selenium increased in recent years which is dangererous for those who live near contaminated soils because selenium is important but an excess is bad for lungs, stomac,... Second, after the tests on lung cells, they found that aerosols damage the lung’s protective barrier which causes lung injury and inflammation with a disturbance of the glucose metabolism and, if the exposition is too important, a lung cancer.  
+Remaining questions ? |Is asthma linked to the allergic inflammation of the lungs ?  
+
+
+
+
+
